@@ -15,7 +15,7 @@ Our training dataset is composed of 7613 pieces of data, testing data is compose
 
 ### Features and Label
 We have 3 ***features*** and 1 ***label*** for each piece of data. Features are ***keyword***, ***location*** and ***text*** (a sequence of tokens). ***Label*** is a binary value indicating whether the tweet text is about occurance of a real disaster or not.<br/> <br/> 
-In the training dataset, we have 3271 true samples and 4342 false samples.<br/> <br/> 
+In the training dataset, we have 3271 true samples and 4342 false samples.
 
 ### Feature Statistics
 ***Location*** feature contains 3341 different locations of different granularities (the most frequent location is ‘USA’ with 104 counts, but there are also many city level location such as London) <br/> <br/> 

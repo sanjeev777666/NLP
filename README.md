@@ -1,7 +1,7 @@
 # NLP Project - Natural Language Processing with Disaster Tweets
 ## Group Members
 Ce Zhou (zhouce@msu.edu), Hongzhi Wen (wenhongz@msu.edu),
-Sanjeev Thenkarai Lakshmi Narasimhan (thenkara@msu.edu)
+T.L SANJEEV (thenkara@msu.edu)
 
 ## Abstract
 Twitter data is very useful for a variety of purposes when it comes to the latter use case, mainly because there are more than 6000 new tweets every second. With the advancement of technology and Natural Language Processing methodologies, the process of distinguishing a text based on semantic analysis has risen over the span of years. <br/> <br/> 

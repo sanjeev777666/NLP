@@ -1,2 +1,4 @@
-# NLP - Natural Language Processing with Disaster Tweets
+# NLP Project - Natural Language Processing with Disaster Tweets
+## Group Members
+## Abstract
 ## Data Description
